@@ -1,0 +1,4 @@
+set number
+colorscheme molokai
+set guifont=Ricty_Diminished_Discord:h14:cSHIFTJIS:qDRAFT
+set renderoptions=type:directx,renmode:5
